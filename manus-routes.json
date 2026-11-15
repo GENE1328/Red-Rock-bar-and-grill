@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "Red Rock Bar & Grill – Home" },
+    { "path": "/about", "title": "About Red Rock Bar & Grill" },
+    { "path": "/food-drinks", "title": "Food & Drinks – Red Rock Bar & Grill" },
+    { "path": "/venue", "title": "Our Venue – Red Rock Bar & Grill" },
+    { "path": "/events", "title": "Events & Entertainment – Red Rock Bar & Grill" },
+    { "path": "/gallery", "title": "Gallery – Red Rock Bar & Grill" },
+    { "path": "/contact", "title": "Contact Red Rock Bar & Grill" }
+  ]
+}
